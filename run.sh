@@ -1,1 +1,1 @@
-echo "creat a third file" > /tmp/test3.txt
+echo "creat a update script file" > /tmp/test4.txt
